@@ -1,0 +1,4682 @@
+[
+  {
+    "id": "CUST-0001",
+    "name": "Aarav Patil",
+    "email": "aarav.patil1@example.com",
+    "phone": "+911000000000",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-27T00:10:45.726Z"
+  },
+  {
+    "id": "CUST-0002",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh2@example.com",
+    "phone": "+911000000001",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-26T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0003",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta3@example.com",
+    "phone": "+911000000002",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-25T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0004",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma4@example.com",
+    "phone": "+911000000003",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-24T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0005",
+    "name": "Aditi Verma",
+    "email": "aditi.verma5@example.com",
+    "phone": "+911000000004",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-23T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0006",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre6@example.com",
+    "phone": "+911000000005",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-22T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0007",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav7@example.com",
+    "phone": "+911000000006",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-21T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0008",
+    "name": "Sai Nair",
+    "email": "sai.nair8@example.com",
+    "phone": "+911000000007",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-20T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0009",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni9@example.com",
+    "phone": "+911000000008",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-19T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0010",
+    "name": "Neha Pawar",
+    "email": "neha.pawar10@example.com",
+    "phone": "+911000000009",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-18T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0011",
+    "name": "Aarav Patil",
+    "email": "aarav.patil11@example.com",
+    "phone": "+911000000010",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-17T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0012",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh12@example.com",
+    "phone": "+911000000011",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-16T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0013",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta13@example.com",
+    "phone": "+911000000012",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-15T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0014",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma14@example.com",
+    "phone": "+911000000013",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-14T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0015",
+    "name": "Aditi Verma",
+    "email": "aditi.verma15@example.com",
+    "phone": "+911000000014",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-13T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0016",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre16@example.com",
+    "phone": "+911000000015",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-12T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0017",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav17@example.com",
+    "phone": "+911000000016",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-11T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0018",
+    "name": "Sai Nair",
+    "email": "sai.nair18@example.com",
+    "phone": "+911000000017",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-10T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0019",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni19@example.com",
+    "phone": "+911000000018",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-09T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0020",
+    "name": "Neha Pawar",
+    "email": "neha.pawar20@example.com",
+    "phone": "+911000000019",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-08T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0021",
+    "name": "Aarav Patil",
+    "email": "aarav.patil21@example.com",
+    "phone": "+911000000020",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-07T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0022",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh22@example.com",
+    "phone": "+911000000021",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-06T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0023",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta23@example.com",
+    "phone": "+911000000022",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-05T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0024",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma24@example.com",
+    "phone": "+911000000023",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-04T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0025",
+    "name": "Aditi Verma",
+    "email": "aditi.verma25@example.com",
+    "phone": "+911000000024",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-03T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0026",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre26@example.com",
+    "phone": "+911000000025",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-03-02T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0027",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav27@example.com",
+    "phone": "+911000000026",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-03-01T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0028",
+    "name": "Sai Nair",
+    "email": "sai.nair28@example.com",
+    "phone": "+911000000027",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-28T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0029",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni29@example.com",
+    "phone": "+911000000028",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-27T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0030",
+    "name": "Neha Pawar",
+    "email": "neha.pawar30@example.com",
+    "phone": "+911000000029",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-26T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0031",
+    "name": "Aarav Patil",
+    "email": "aarav.patil31@example.com",
+    "phone": "+911000000030",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-25T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0032",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh32@example.com",
+    "phone": "+911000000031",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-24T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0033",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta33@example.com",
+    "phone": "+911000000032",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-23T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0034",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma34@example.com",
+    "phone": "+911000000033",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-22T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0035",
+    "name": "Aditi Verma",
+    "email": "aditi.verma35@example.com",
+    "phone": "+911000000034",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-21T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0036",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre36@example.com",
+    "phone": "+911000000035",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-20T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0037",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav37@example.com",
+    "phone": "+911000000036",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-19T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0038",
+    "name": "Sai Nair",
+    "email": "sai.nair38@example.com",
+    "phone": "+911000000037",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-18T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0039",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni39@example.com",
+    "phone": "+911000000038",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-17T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0040",
+    "name": "Neha Pawar",
+    "email": "neha.pawar40@example.com",
+    "phone": "+911000000039",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-16T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0041",
+    "name": "Aarav Patil",
+    "email": "aarav.patil41@example.com",
+    "phone": "+911000000040",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-15T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0042",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh42@example.com",
+    "phone": "+911000000041",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-14T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0043",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta43@example.com",
+    "phone": "+911000000042",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-13T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0044",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma44@example.com",
+    "phone": "+911000000043",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-12T00:10:45.727Z"
+  },
+  {
+    "id": "CUST-0045",
+    "name": "Aditi Verma",
+    "email": "aditi.verma45@example.com",
+    "phone": "+911000000044",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-11T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0046",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre46@example.com",
+    "phone": "+911000000045",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-10T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0047",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav47@example.com",
+    "phone": "+911000000046",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-09T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0048",
+    "name": "Sai Nair",
+    "email": "sai.nair48@example.com",
+    "phone": "+911000000047",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-08T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0049",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni49@example.com",
+    "phone": "+911000000048",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-07T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0050",
+    "name": "Neha Pawar",
+    "email": "neha.pawar50@example.com",
+    "phone": "+911000000049",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-06T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0051",
+    "name": "Aarav Patil",
+    "email": "aarav.patil51@example.com",
+    "phone": "+911000000050",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-05T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0052",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh52@example.com",
+    "phone": "+911000000051",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-04T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0053",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta53@example.com",
+    "phone": "+911000000052",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-03T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0054",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma54@example.com",
+    "phone": "+911000000053",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-02-02T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0055",
+    "name": "Aditi Verma",
+    "email": "aditi.verma55@example.com",
+    "phone": "+911000000054",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-02-01T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0056",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre56@example.com",
+    "phone": "+911000000055",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-31T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0057",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav57@example.com",
+    "phone": "+911000000056",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-30T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0058",
+    "name": "Sai Nair",
+    "email": "sai.nair58@example.com",
+    "phone": "+911000000057",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-29T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0059",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni59@example.com",
+    "phone": "+911000000058",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-28T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0060",
+    "name": "Neha Pawar",
+    "email": "neha.pawar60@example.com",
+    "phone": "+911000000059",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-27T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0061",
+    "name": "Aarav Patil",
+    "email": "aarav.patil61@example.com",
+    "phone": "+911000000060",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-26T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0062",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh62@example.com",
+    "phone": "+911000000061",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-25T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0063",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta63@example.com",
+    "phone": "+911000000062",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-24T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0064",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma64@example.com",
+    "phone": "+911000000063",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-23T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0065",
+    "name": "Aditi Verma",
+    "email": "aditi.verma65@example.com",
+    "phone": "+911000000064",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-22T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0066",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre66@example.com",
+    "phone": "+911000000065",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-21T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0067",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav67@example.com",
+    "phone": "+911000000066",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-20T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0068",
+    "name": "Sai Nair",
+    "email": "sai.nair68@example.com",
+    "phone": "+911000000067",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-19T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0069",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni69@example.com",
+    "phone": "+911000000068",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-18T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0070",
+    "name": "Neha Pawar",
+    "email": "neha.pawar70@example.com",
+    "phone": "+911000000069",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-17T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0071",
+    "name": "Aarav Patil",
+    "email": "aarav.patil71@example.com",
+    "phone": "+911000000070",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-16T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0072",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh72@example.com",
+    "phone": "+911000000071",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-15T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0073",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta73@example.com",
+    "phone": "+911000000072",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-14T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0074",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma74@example.com",
+    "phone": "+911000000073",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-13T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0075",
+    "name": "Aditi Verma",
+    "email": "aditi.verma75@example.com",
+    "phone": "+911000000074",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-12T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0076",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre76@example.com",
+    "phone": "+911000000075",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-11T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0077",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav77@example.com",
+    "phone": "+911000000076",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-10T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0078",
+    "name": "Sai Nair",
+    "email": "sai.nair78@example.com",
+    "phone": "+911000000077",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-09T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0079",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni79@example.com",
+    "phone": "+911000000078",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-08T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0080",
+    "name": "Neha Pawar",
+    "email": "neha.pawar80@example.com",
+    "phone": "+911000000079",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-07T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0081",
+    "name": "Aarav Patil",
+    "email": "aarav.patil81@example.com",
+    "phone": "+911000000080",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-06T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0082",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh82@example.com",
+    "phone": "+911000000081",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-05T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0083",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta83@example.com",
+    "phone": "+911000000082",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-04T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0084",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma84@example.com",
+    "phone": "+911000000083",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-03T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0085",
+    "name": "Aditi Verma",
+    "email": "aditi.verma85@example.com",
+    "phone": "+911000000084",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2026-01-02T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0086",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre86@example.com",
+    "phone": "+911000000085",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2026-01-01T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0087",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav87@example.com",
+    "phone": "+911000000086",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-31T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0088",
+    "name": "Sai Nair",
+    "email": "sai.nair88@example.com",
+    "phone": "+911000000087",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-30T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0089",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni89@example.com",
+    "phone": "+911000000088",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-29T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0090",
+    "name": "Neha Pawar",
+    "email": "neha.pawar90@example.com",
+    "phone": "+911000000089",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-28T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0091",
+    "name": "Aarav Patil",
+    "email": "aarav.patil91@example.com",
+    "phone": "+911000000090",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-27T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0092",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh92@example.com",
+    "phone": "+911000000091",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-26T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0093",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta93@example.com",
+    "phone": "+911000000092",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-25T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0094",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma94@example.com",
+    "phone": "+911000000093",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-24T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0095",
+    "name": "Aditi Verma",
+    "email": "aditi.verma95@example.com",
+    "phone": "+911000000094",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-23T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0096",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre96@example.com",
+    "phone": "+911000000095",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-22T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0097",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav97@example.com",
+    "phone": "+911000000096",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-21T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0098",
+    "name": "Sai Nair",
+    "email": "sai.nair98@example.com",
+    "phone": "+911000000097",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-20T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0099",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni99@example.com",
+    "phone": "+911000000098",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-19T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0100",
+    "name": "Neha Pawar",
+    "email": "neha.pawar100@example.com",
+    "phone": "+911000000099",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-18T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0101",
+    "name": "Aarav Patil",
+    "email": "aarav.patil101@example.com",
+    "phone": "+911000000100",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-17T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0102",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh102@example.com",
+    "phone": "+911000000101",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-16T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0103",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta103@example.com",
+    "phone": "+911000000102",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-15T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0104",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma104@example.com",
+    "phone": "+911000000103",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-14T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0105",
+    "name": "Aditi Verma",
+    "email": "aditi.verma105@example.com",
+    "phone": "+911000000104",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-13T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0106",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre106@example.com",
+    "phone": "+911000000105",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-12T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0107",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav107@example.com",
+    "phone": "+911000000106",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-11T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0108",
+    "name": "Sai Nair",
+    "email": "sai.nair108@example.com",
+    "phone": "+911000000107",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-10T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0109",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni109@example.com",
+    "phone": "+911000000108",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-09T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0110",
+    "name": "Neha Pawar",
+    "email": "neha.pawar110@example.com",
+    "phone": "+911000000109",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-08T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0111",
+    "name": "Aarav Patil",
+    "email": "aarav.patil111@example.com",
+    "phone": "+911000000110",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-07T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0112",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh112@example.com",
+    "phone": "+911000000111",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-06T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0113",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta113@example.com",
+    "phone": "+911000000112",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-05T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0114",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma114@example.com",
+    "phone": "+911000000113",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-04T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0115",
+    "name": "Aditi Verma",
+    "email": "aditi.verma115@example.com",
+    "phone": "+911000000114",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-03T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0116",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre116@example.com",
+    "phone": "+911000000115",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-12-02T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0117",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav117@example.com",
+    "phone": "+911000000116",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-12-01T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0118",
+    "name": "Sai Nair",
+    "email": "sai.nair118@example.com",
+    "phone": "+911000000117",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-30T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0119",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni119@example.com",
+    "phone": "+911000000118",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-29T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0120",
+    "name": "Neha Pawar",
+    "email": "neha.pawar120@example.com",
+    "phone": "+911000000119",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-28T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0121",
+    "name": "Aarav Patil",
+    "email": "aarav.patil121@example.com",
+    "phone": "+911000000120",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-27T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0122",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh122@example.com",
+    "phone": "+911000000121",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-26T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0123",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta123@example.com",
+    "phone": "+911000000122",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-25T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0124",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma124@example.com",
+    "phone": "+911000000123",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-24T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0125",
+    "name": "Aditi Verma",
+    "email": "aditi.verma125@example.com",
+    "phone": "+911000000124",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-23T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0126",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre126@example.com",
+    "phone": "+911000000125",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-22T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0127",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav127@example.com",
+    "phone": "+911000000126",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-21T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0128",
+    "name": "Sai Nair",
+    "email": "sai.nair128@example.com",
+    "phone": "+911000000127",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-20T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0129",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni129@example.com",
+    "phone": "+911000000128",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-19T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0130",
+    "name": "Neha Pawar",
+    "email": "neha.pawar130@example.com",
+    "phone": "+911000000129",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-18T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0131",
+    "name": "Aarav Patil",
+    "email": "aarav.patil131@example.com",
+    "phone": "+911000000130",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-17T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0132",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh132@example.com",
+    "phone": "+911000000131",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-16T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0133",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta133@example.com",
+    "phone": "+911000000132",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-15T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0134",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma134@example.com",
+    "phone": "+911000000133",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-14T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0135",
+    "name": "Aditi Verma",
+    "email": "aditi.verma135@example.com",
+    "phone": "+911000000134",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-13T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0136",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre136@example.com",
+    "phone": "+911000000135",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-12T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0137",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav137@example.com",
+    "phone": "+911000000136",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-11T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0138",
+    "name": "Sai Nair",
+    "email": "sai.nair138@example.com",
+    "phone": "+911000000137",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-10T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0139",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni139@example.com",
+    "phone": "+911000000138",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-09T00:10:45.728Z"
+  },
+  {
+    "id": "CUST-0140",
+    "name": "Neha Pawar",
+    "email": "neha.pawar140@example.com",
+    "phone": "+911000000139",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-08T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0141",
+    "name": "Aarav Patil",
+    "email": "aarav.patil141@example.com",
+    "phone": "+911000000140",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-07T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0142",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh142@example.com",
+    "phone": "+911000000141",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-06T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0143",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta143@example.com",
+    "phone": "+911000000142",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-05T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0144",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma144@example.com",
+    "phone": "+911000000143",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-04T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0145",
+    "name": "Aditi Verma",
+    "email": "aditi.verma145@example.com",
+    "phone": "+911000000144",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-03T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0146",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre146@example.com",
+    "phone": "+911000000145",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-11-02T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0147",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav147@example.com",
+    "phone": "+911000000146",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-11-01T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0148",
+    "name": "Sai Nair",
+    "email": "sai.nair148@example.com",
+    "phone": "+911000000147",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-31T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0149",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni149@example.com",
+    "phone": "+911000000148",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-30T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0150",
+    "name": "Neha Pawar",
+    "email": "neha.pawar150@example.com",
+    "phone": "+911000000149",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-29T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0151",
+    "name": "Aarav Patil",
+    "email": "aarav.patil151@example.com",
+    "phone": "+911000000150",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-28T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0152",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh152@example.com",
+    "phone": "+911000000151",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-27T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0153",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta153@example.com",
+    "phone": "+911000000152",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-26T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0154",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma154@example.com",
+    "phone": "+911000000153",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-25T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0155",
+    "name": "Aditi Verma",
+    "email": "aditi.verma155@example.com",
+    "phone": "+911000000154",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-24T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0156",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre156@example.com",
+    "phone": "+911000000155",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-23T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0157",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav157@example.com",
+    "phone": "+911000000156",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-22T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0158",
+    "name": "Sai Nair",
+    "email": "sai.nair158@example.com",
+    "phone": "+911000000157",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-21T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0159",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni159@example.com",
+    "phone": "+911000000158",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-20T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0160",
+    "name": "Neha Pawar",
+    "email": "neha.pawar160@example.com",
+    "phone": "+911000000159",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-19T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0161",
+    "name": "Aarav Patil",
+    "email": "aarav.patil161@example.com",
+    "phone": "+911000000160",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-18T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0162",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh162@example.com",
+    "phone": "+911000000161",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-17T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0163",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta163@example.com",
+    "phone": "+911000000162",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-16T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0164",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma164@example.com",
+    "phone": "+911000000163",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-15T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0165",
+    "name": "Aditi Verma",
+    "email": "aditi.verma165@example.com",
+    "phone": "+911000000164",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-14T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0166",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre166@example.com",
+    "phone": "+911000000165",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-13T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0167",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav167@example.com",
+    "phone": "+911000000166",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-12T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0168",
+    "name": "Sai Nair",
+    "email": "sai.nair168@example.com",
+    "phone": "+911000000167",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-11T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0169",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni169@example.com",
+    "phone": "+911000000168",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-10T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0170",
+    "name": "Neha Pawar",
+    "email": "neha.pawar170@example.com",
+    "phone": "+911000000169",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-09T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0171",
+    "name": "Aarav Patil",
+    "email": "aarav.patil171@example.com",
+    "phone": "+911000000170",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-08T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0172",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh172@example.com",
+    "phone": "+911000000171",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-07T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0173",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta173@example.com",
+    "phone": "+911000000172",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-06T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0174",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma174@example.com",
+    "phone": "+911000000173",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-05T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0175",
+    "name": "Aditi Verma",
+    "email": "aditi.verma175@example.com",
+    "phone": "+911000000174",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-04T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0176",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre176@example.com",
+    "phone": "+911000000175",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-03T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0177",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav177@example.com",
+    "phone": "+911000000176",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-10-02T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0178",
+    "name": "Sai Nair",
+    "email": "sai.nair178@example.com",
+    "phone": "+911000000177",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-10-01T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0179",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni179@example.com",
+    "phone": "+911000000178",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-30T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0180",
+    "name": "Neha Pawar",
+    "email": "neha.pawar180@example.com",
+    "phone": "+911000000179",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-29T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0181",
+    "name": "Aarav Patil",
+    "email": "aarav.patil181@example.com",
+    "phone": "+911000000180",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-28T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0182",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh182@example.com",
+    "phone": "+911000000181",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-27T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0183",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta183@example.com",
+    "phone": "+911000000182",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-26T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0184",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma184@example.com",
+    "phone": "+911000000183",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-25T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0185",
+    "name": "Aditi Verma",
+    "email": "aditi.verma185@example.com",
+    "phone": "+911000000184",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-24T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0186",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre186@example.com",
+    "phone": "+911000000185",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-23T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0187",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav187@example.com",
+    "phone": "+911000000186",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-22T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0188",
+    "name": "Sai Nair",
+    "email": "sai.nair188@example.com",
+    "phone": "+911000000187",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-21T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0189",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni189@example.com",
+    "phone": "+911000000188",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-20T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0190",
+    "name": "Neha Pawar",
+    "email": "neha.pawar190@example.com",
+    "phone": "+911000000189",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-19T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0191",
+    "name": "Aarav Patil",
+    "email": "aarav.patil191@example.com",
+    "phone": "+911000000190",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-18T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0192",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh192@example.com",
+    "phone": "+911000000191",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-17T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0193",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta193@example.com",
+    "phone": "+911000000192",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-16T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0194",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma194@example.com",
+    "phone": "+911000000193",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-15T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0195",
+    "name": "Aditi Verma",
+    "email": "aditi.verma195@example.com",
+    "phone": "+911000000194",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-14T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0196",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre196@example.com",
+    "phone": "+911000000195",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-13T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0197",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav197@example.com",
+    "phone": "+911000000196",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-12T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0198",
+    "name": "Sai Nair",
+    "email": "sai.nair198@example.com",
+    "phone": "+911000000197",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-11T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0199",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni199@example.com",
+    "phone": "+911000000198",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-10T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0200",
+    "name": "Neha Pawar",
+    "email": "neha.pawar200@example.com",
+    "phone": "+911000000199",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-09T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0201",
+    "name": "Aarav Patil",
+    "email": "aarav.patil201@example.com",
+    "phone": "+911000000200",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-08T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0202",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh202@example.com",
+    "phone": "+911000000201",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-07T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0203",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta203@example.com",
+    "phone": "+911000000202",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-06T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0204",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma204@example.com",
+    "phone": "+911000000203",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-05T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0205",
+    "name": "Aditi Verma",
+    "email": "aditi.verma205@example.com",
+    "phone": "+911000000204",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-04T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0206",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre206@example.com",
+    "phone": "+911000000205",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-03T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0207",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav207@example.com",
+    "phone": "+911000000206",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-09-02T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0208",
+    "name": "Sai Nair",
+    "email": "sai.nair208@example.com",
+    "phone": "+911000000207",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-09-01T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0209",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni209@example.com",
+    "phone": "+911000000208",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-31T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0210",
+    "name": "Neha Pawar",
+    "email": "neha.pawar210@example.com",
+    "phone": "+911000000209",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-30T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0211",
+    "name": "Aarav Patil",
+    "email": "aarav.patil211@example.com",
+    "phone": "+911000000210",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-29T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0212",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh212@example.com",
+    "phone": "+911000000211",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-28T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0213",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta213@example.com",
+    "phone": "+911000000212",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-27T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0214",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma214@example.com",
+    "phone": "+911000000213",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-26T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0215",
+    "name": "Aditi Verma",
+    "email": "aditi.verma215@example.com",
+    "phone": "+911000000214",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-25T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0216",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre216@example.com",
+    "phone": "+911000000215",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-24T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0217",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav217@example.com",
+    "phone": "+911000000216",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-23T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0218",
+    "name": "Sai Nair",
+    "email": "sai.nair218@example.com",
+    "phone": "+911000000217",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-22T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0219",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni219@example.com",
+    "phone": "+911000000218",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-21T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0220",
+    "name": "Neha Pawar",
+    "email": "neha.pawar220@example.com",
+    "phone": "+911000000219",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-20T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0221",
+    "name": "Aarav Patil",
+    "email": "aarav.patil221@example.com",
+    "phone": "+911000000220",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-19T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0222",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh222@example.com",
+    "phone": "+911000000221",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-18T00:10:45.729Z"
+  },
+  {
+    "id": "CUST-0223",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta223@example.com",
+    "phone": "+911000000222",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-17T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0224",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma224@example.com",
+    "phone": "+911000000223",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-16T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0225",
+    "name": "Aditi Verma",
+    "email": "aditi.verma225@example.com",
+    "phone": "+911000000224",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-15T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0226",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre226@example.com",
+    "phone": "+911000000225",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-14T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0227",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav227@example.com",
+    "phone": "+911000000226",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-13T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0228",
+    "name": "Sai Nair",
+    "email": "sai.nair228@example.com",
+    "phone": "+911000000227",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-12T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0229",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni229@example.com",
+    "phone": "+911000000228",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-11T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0230",
+    "name": "Neha Pawar",
+    "email": "neha.pawar230@example.com",
+    "phone": "+911000000229",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-10T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0231",
+    "name": "Aarav Patil",
+    "email": "aarav.patil231@example.com",
+    "phone": "+911000000230",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-09T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0232",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh232@example.com",
+    "phone": "+911000000231",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-08T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0233",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta233@example.com",
+    "phone": "+911000000232",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-07T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0234",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma234@example.com",
+    "phone": "+911000000233",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-06T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0235",
+    "name": "Aditi Verma",
+    "email": "aditi.verma235@example.com",
+    "phone": "+911000000234",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-05T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0236",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre236@example.com",
+    "phone": "+911000000235",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-04T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0237",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav237@example.com",
+    "phone": "+911000000236",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-03T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0238",
+    "name": "Sai Nair",
+    "email": "sai.nair238@example.com",
+    "phone": "+911000000237",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-08-02T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0239",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni239@example.com",
+    "phone": "+911000000238",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-08-01T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0240",
+    "name": "Neha Pawar",
+    "email": "neha.pawar240@example.com",
+    "phone": "+911000000239",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-31T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0241",
+    "name": "Aarav Patil",
+    "email": "aarav.patil241@example.com",
+    "phone": "+911000000240",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-30T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0242",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh242@example.com",
+    "phone": "+911000000241",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-29T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0243",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta243@example.com",
+    "phone": "+911000000242",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-28T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0244",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma244@example.com",
+    "phone": "+911000000243",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-27T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0245",
+    "name": "Aditi Verma",
+    "email": "aditi.verma245@example.com",
+    "phone": "+911000000244",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-26T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0246",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre246@example.com",
+    "phone": "+911000000245",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-25T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0247",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav247@example.com",
+    "phone": "+911000000246",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-24T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0248",
+    "name": "Sai Nair",
+    "email": "sai.nair248@example.com",
+    "phone": "+911000000247",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-23T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0249",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni249@example.com",
+    "phone": "+911000000248",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-22T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0250",
+    "name": "Neha Pawar",
+    "email": "neha.pawar250@example.com",
+    "phone": "+911000000249",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-21T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0251",
+    "name": "Aarav Patil",
+    "email": "aarav.patil251@example.com",
+    "phone": "+911000000250",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-20T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0252",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh252@example.com",
+    "phone": "+911000000251",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-19T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0253",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta253@example.com",
+    "phone": "+911000000252",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-18T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0254",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma254@example.com",
+    "phone": "+911000000253",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-17T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0255",
+    "name": "Aditi Verma",
+    "email": "aditi.verma255@example.com",
+    "phone": "+911000000254",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-16T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0256",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre256@example.com",
+    "phone": "+911000000255",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-15T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0257",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav257@example.com",
+    "phone": "+911000000256",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-14T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0258",
+    "name": "Sai Nair",
+    "email": "sai.nair258@example.com",
+    "phone": "+911000000257",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-13T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0259",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni259@example.com",
+    "phone": "+911000000258",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-12T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0260",
+    "name": "Neha Pawar",
+    "email": "neha.pawar260@example.com",
+    "phone": "+911000000259",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-11T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0261",
+    "name": "Aarav Patil",
+    "email": "aarav.patil261@example.com",
+    "phone": "+911000000260",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-10T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0262",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh262@example.com",
+    "phone": "+911000000261",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-09T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0263",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta263@example.com",
+    "phone": "+911000000262",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-08T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0264",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma264@example.com",
+    "phone": "+911000000263",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-07T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0265",
+    "name": "Aditi Verma",
+    "email": "aditi.verma265@example.com",
+    "phone": "+911000000264",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-06T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0266",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre266@example.com",
+    "phone": "+911000000265",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-05T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0267",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav267@example.com",
+    "phone": "+911000000266",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-04T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0268",
+    "name": "Sai Nair",
+    "email": "sai.nair268@example.com",
+    "phone": "+911000000267",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-03T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0269",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni269@example.com",
+    "phone": "+911000000268",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-07-02T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0270",
+    "name": "Neha Pawar",
+    "email": "neha.pawar270@example.com",
+    "phone": "+911000000269",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-07-01T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0271",
+    "name": "Aarav Patil",
+    "email": "aarav.patil271@example.com",
+    "phone": "+911000000270",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-30T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0272",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh272@example.com",
+    "phone": "+911000000271",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-29T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0273",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta273@example.com",
+    "phone": "+911000000272",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-28T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0274",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma274@example.com",
+    "phone": "+911000000273",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-27T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0275",
+    "name": "Aditi Verma",
+    "email": "aditi.verma275@example.com",
+    "phone": "+911000000274",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-26T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0276",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre276@example.com",
+    "phone": "+911000000275",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-25T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0277",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav277@example.com",
+    "phone": "+911000000276",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-24T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0278",
+    "name": "Sai Nair",
+    "email": "sai.nair278@example.com",
+    "phone": "+911000000277",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-23T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0279",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni279@example.com",
+    "phone": "+911000000278",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-22T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0280",
+    "name": "Neha Pawar",
+    "email": "neha.pawar280@example.com",
+    "phone": "+911000000279",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-21T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0281",
+    "name": "Aarav Patil",
+    "email": "aarav.patil281@example.com",
+    "phone": "+911000000280",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-20T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0282",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh282@example.com",
+    "phone": "+911000000281",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-19T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0283",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta283@example.com",
+    "phone": "+911000000282",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-18T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0284",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma284@example.com",
+    "phone": "+911000000283",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-17T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0285",
+    "name": "Aditi Verma",
+    "email": "aditi.verma285@example.com",
+    "phone": "+911000000284",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-16T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0286",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre286@example.com",
+    "phone": "+911000000285",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-15T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0287",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav287@example.com",
+    "phone": "+911000000286",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-14T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0288",
+    "name": "Sai Nair",
+    "email": "sai.nair288@example.com",
+    "phone": "+911000000287",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-13T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0289",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni289@example.com",
+    "phone": "+911000000288",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-12T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0290",
+    "name": "Neha Pawar",
+    "email": "neha.pawar290@example.com",
+    "phone": "+911000000289",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-11T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0291",
+    "name": "Aarav Patil",
+    "email": "aarav.patil291@example.com",
+    "phone": "+911000000290",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-10T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0292",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh292@example.com",
+    "phone": "+911000000291",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-09T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0293",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta293@example.com",
+    "phone": "+911000000292",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-08T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0294",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma294@example.com",
+    "phone": "+911000000293",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-07T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0295",
+    "name": "Aditi Verma",
+    "email": "aditi.verma295@example.com",
+    "phone": "+911000000294",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-06T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0296",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre296@example.com",
+    "phone": "+911000000295",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-05T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0297",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav297@example.com",
+    "phone": "+911000000296",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-04T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0298",
+    "name": "Sai Nair",
+    "email": "sai.nair298@example.com",
+    "phone": "+911000000297",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-03T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0299",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni299@example.com",
+    "phone": "+911000000298",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-06-02T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0300",
+    "name": "Neha Pawar",
+    "email": "neha.pawar300@example.com",
+    "phone": "+911000000299",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-06-01T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0301",
+    "name": "Aarav Patil",
+    "email": "aarav.patil301@example.com",
+    "phone": "+911000000300",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-31T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0302",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh302@example.com",
+    "phone": "+911000000301",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-30T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0303",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta303@example.com",
+    "phone": "+911000000302",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-29T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0304",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma304@example.com",
+    "phone": "+911000000303",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-28T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0305",
+    "name": "Aditi Verma",
+    "email": "aditi.verma305@example.com",
+    "phone": "+911000000304",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-27T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0306",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre306@example.com",
+    "phone": "+911000000305",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-26T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0307",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav307@example.com",
+    "phone": "+911000000306",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-25T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0308",
+    "name": "Sai Nair",
+    "email": "sai.nair308@example.com",
+    "phone": "+911000000307",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-24T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0309",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni309@example.com",
+    "phone": "+911000000308",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-23T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0310",
+    "name": "Neha Pawar",
+    "email": "neha.pawar310@example.com",
+    "phone": "+911000000309",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-22T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0311",
+    "name": "Aarav Patil",
+    "email": "aarav.patil311@example.com",
+    "phone": "+911000000310",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-21T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0312",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh312@example.com",
+    "phone": "+911000000311",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-20T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0313",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta313@example.com",
+    "phone": "+911000000312",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-19T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0314",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma314@example.com",
+    "phone": "+911000000313",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-18T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0315",
+    "name": "Aditi Verma",
+    "email": "aditi.verma315@example.com",
+    "phone": "+911000000314",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-17T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0316",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre316@example.com",
+    "phone": "+911000000315",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-16T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0317",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav317@example.com",
+    "phone": "+911000000316",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-15T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0318",
+    "name": "Sai Nair",
+    "email": "sai.nair318@example.com",
+    "phone": "+911000000317",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-14T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0319",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni319@example.com",
+    "phone": "+911000000318",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-13T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0320",
+    "name": "Neha Pawar",
+    "email": "neha.pawar320@example.com",
+    "phone": "+911000000319",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-12T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0321",
+    "name": "Aarav Patil",
+    "email": "aarav.patil321@example.com",
+    "phone": "+911000000320",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-11T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0322",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh322@example.com",
+    "phone": "+911000000321",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-10T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0323",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta323@example.com",
+    "phone": "+911000000322",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-09T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0324",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma324@example.com",
+    "phone": "+911000000323",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-08T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0325",
+    "name": "Aditi Verma",
+    "email": "aditi.verma325@example.com",
+    "phone": "+911000000324",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-07T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0326",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre326@example.com",
+    "phone": "+911000000325",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-06T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0327",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav327@example.com",
+    "phone": "+911000000326",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-05T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0328",
+    "name": "Sai Nair",
+    "email": "sai.nair328@example.com",
+    "phone": "+911000000327",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-04T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0329",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni329@example.com",
+    "phone": "+911000000328",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-03T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0330",
+    "name": "Neha Pawar",
+    "email": "neha.pawar330@example.com",
+    "phone": "+911000000329",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-05-02T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0331",
+    "name": "Aarav Patil",
+    "email": "aarav.patil331@example.com",
+    "phone": "+911000000330",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-05-01T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0332",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh332@example.com",
+    "phone": "+911000000331",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-30T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0333",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta333@example.com",
+    "phone": "+911000000332",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-29T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0334",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma334@example.com",
+    "phone": "+911000000333",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-28T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0335",
+    "name": "Aditi Verma",
+    "email": "aditi.verma335@example.com",
+    "phone": "+911000000334",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-27T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0336",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre336@example.com",
+    "phone": "+911000000335",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-26T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0337",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav337@example.com",
+    "phone": "+911000000336",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-25T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0338",
+    "name": "Sai Nair",
+    "email": "sai.nair338@example.com",
+    "phone": "+911000000337",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-24T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0339",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni339@example.com",
+    "phone": "+911000000338",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-23T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0340",
+    "name": "Neha Pawar",
+    "email": "neha.pawar340@example.com",
+    "phone": "+911000000339",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-22T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0341",
+    "name": "Aarav Patil",
+    "email": "aarav.patil341@example.com",
+    "phone": "+911000000340",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-21T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0342",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh342@example.com",
+    "phone": "+911000000341",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-20T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0343",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta343@example.com",
+    "phone": "+911000000342",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-19T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0344",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma344@example.com",
+    "phone": "+911000000343",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-18T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0345",
+    "name": "Aditi Verma",
+    "email": "aditi.verma345@example.com",
+    "phone": "+911000000344",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-17T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0346",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre346@example.com",
+    "phone": "+911000000345",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-16T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0347",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav347@example.com",
+    "phone": "+911000000346",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-15T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0348",
+    "name": "Sai Nair",
+    "email": "sai.nair348@example.com",
+    "phone": "+911000000347",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-14T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0349",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni349@example.com",
+    "phone": "+911000000348",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-13T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0350",
+    "name": "Neha Pawar",
+    "email": "neha.pawar350@example.com",
+    "phone": "+911000000349",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-12T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0351",
+    "name": "Aarav Patil",
+    "email": "aarav.patil351@example.com",
+    "phone": "+911000000350",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-11T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0352",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh352@example.com",
+    "phone": "+911000000351",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-10T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0353",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta353@example.com",
+    "phone": "+911000000352",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-09T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0354",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma354@example.com",
+    "phone": "+911000000353",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-08T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0355",
+    "name": "Aditi Verma",
+    "email": "aditi.verma355@example.com",
+    "phone": "+911000000354",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-07T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0356",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre356@example.com",
+    "phone": "+911000000355",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-06T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0357",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav357@example.com",
+    "phone": "+911000000356",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-05T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0358",
+    "name": "Sai Nair",
+    "email": "sai.nair358@example.com",
+    "phone": "+911000000357",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-04T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0359",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni359@example.com",
+    "phone": "+911000000358",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-03T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0360",
+    "name": "Neha Pawar",
+    "email": "neha.pawar360@example.com",
+    "phone": "+911000000359",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-04-02T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0361",
+    "name": "Aarav Patil",
+    "email": "aarav.patil361@example.com",
+    "phone": "+911000000360",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-04-01T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0362",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh362@example.com",
+    "phone": "+911000000361",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-31T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0363",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta363@example.com",
+    "phone": "+911000000362",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-30T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0364",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma364@example.com",
+    "phone": "+911000000363",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-29T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0365",
+    "name": "Aditi Verma",
+    "email": "aditi.verma365@example.com",
+    "phone": "+911000000364",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-28T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0366",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre366@example.com",
+    "phone": "+911000000365",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-27T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0367",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav367@example.com",
+    "phone": "+911000000366",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-26T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0368",
+    "name": "Sai Nair",
+    "email": "sai.nair368@example.com",
+    "phone": "+911000000367",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-25T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0369",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni369@example.com",
+    "phone": "+911000000368",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-24T00:10:45.730Z"
+  },
+  {
+    "id": "CUST-0370",
+    "name": "Neha Pawar",
+    "email": "neha.pawar370@example.com",
+    "phone": "+911000000369",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-23T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0371",
+    "name": "Aarav Patil",
+    "email": "aarav.patil371@example.com",
+    "phone": "+911000000370",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-22T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0372",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh372@example.com",
+    "phone": "+911000000371",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-21T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0373",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta373@example.com",
+    "phone": "+911000000372",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-20T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0374",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma374@example.com",
+    "phone": "+911000000373",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-19T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0375",
+    "name": "Aditi Verma",
+    "email": "aditi.verma375@example.com",
+    "phone": "+911000000374",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-18T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0376",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre376@example.com",
+    "phone": "+911000000375",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-17T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0377",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav377@example.com",
+    "phone": "+911000000376",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-16T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0378",
+    "name": "Sai Nair",
+    "email": "sai.nair378@example.com",
+    "phone": "+911000000377",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-15T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0379",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni379@example.com",
+    "phone": "+911000000378",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-14T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0380",
+    "name": "Neha Pawar",
+    "email": "neha.pawar380@example.com",
+    "phone": "+911000000379",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-13T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0381",
+    "name": "Aarav Patil",
+    "email": "aarav.patil381@example.com",
+    "phone": "+911000000380",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-12T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0382",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh382@example.com",
+    "phone": "+911000000381",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-11T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0383",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta383@example.com",
+    "phone": "+911000000382",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-10T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0384",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma384@example.com",
+    "phone": "+911000000383",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-09T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0385",
+    "name": "Aditi Verma",
+    "email": "aditi.verma385@example.com",
+    "phone": "+911000000384",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-08T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0386",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre386@example.com",
+    "phone": "+911000000385",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-07T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0387",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav387@example.com",
+    "phone": "+911000000386",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-06T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0388",
+    "name": "Sai Nair",
+    "email": "sai.nair388@example.com",
+    "phone": "+911000000387",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-05T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0389",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni389@example.com",
+    "phone": "+911000000388",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-04T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0390",
+    "name": "Neha Pawar",
+    "email": "neha.pawar390@example.com",
+    "phone": "+911000000389",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-03T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0391",
+    "name": "Aarav Patil",
+    "email": "aarav.patil391@example.com",
+    "phone": "+911000000390",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-03-02T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0392",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh392@example.com",
+    "phone": "+911000000391",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-03-01T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0393",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta393@example.com",
+    "phone": "+911000000392",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-28T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0394",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma394@example.com",
+    "phone": "+911000000393",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-27T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0395",
+    "name": "Aditi Verma",
+    "email": "aditi.verma395@example.com",
+    "phone": "+911000000394",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-26T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0396",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre396@example.com",
+    "phone": "+911000000395",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-25T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0397",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav397@example.com",
+    "phone": "+911000000396",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-24T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0398",
+    "name": "Sai Nair",
+    "email": "sai.nair398@example.com",
+    "phone": "+911000000397",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-23T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0399",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni399@example.com",
+    "phone": "+911000000398",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-22T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0400",
+    "name": "Neha Pawar",
+    "email": "neha.pawar400@example.com",
+    "phone": "+911000000399",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-21T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0401",
+    "name": "Aarav Patil",
+    "email": "aarav.patil401@example.com",
+    "phone": "+911000000400",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-20T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0402",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh402@example.com",
+    "phone": "+911000000401",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-19T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0403",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta403@example.com",
+    "phone": "+911000000402",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-18T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0404",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma404@example.com",
+    "phone": "+911000000403",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-17T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0405",
+    "name": "Aditi Verma",
+    "email": "aditi.verma405@example.com",
+    "phone": "+911000000404",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-16T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0406",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre406@example.com",
+    "phone": "+911000000405",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-15T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0407",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav407@example.com",
+    "phone": "+911000000406",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-14T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0408",
+    "name": "Sai Nair",
+    "email": "sai.nair408@example.com",
+    "phone": "+911000000407",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-13T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0409",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni409@example.com",
+    "phone": "+911000000408",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-12T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0410",
+    "name": "Neha Pawar",
+    "email": "neha.pawar410@example.com",
+    "phone": "+911000000409",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-11T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0411",
+    "name": "Aarav Patil",
+    "email": "aarav.patil411@example.com",
+    "phone": "+911000000410",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-10T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0412",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh412@example.com",
+    "phone": "+911000000411",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-09T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0413",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta413@example.com",
+    "phone": "+911000000412",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-08T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0414",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma414@example.com",
+    "phone": "+911000000413",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-07T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0415",
+    "name": "Aditi Verma",
+    "email": "aditi.verma415@example.com",
+    "phone": "+911000000414",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-06T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0416",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre416@example.com",
+    "phone": "+911000000415",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-05T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0417",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav417@example.com",
+    "phone": "+911000000416",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-04T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0418",
+    "name": "Sai Nair",
+    "email": "sai.nair418@example.com",
+    "phone": "+911000000417",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-03T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0419",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni419@example.com",
+    "phone": "+911000000418",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-02-02T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0420",
+    "name": "Neha Pawar",
+    "email": "neha.pawar420@example.com",
+    "phone": "+911000000419",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-02-01T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0421",
+    "name": "Aarav Patil",
+    "email": "aarav.patil421@example.com",
+    "phone": "+911000000420",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-31T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0422",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh422@example.com",
+    "phone": "+911000000421",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-30T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0423",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta423@example.com",
+    "phone": "+911000000422",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-29T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0424",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma424@example.com",
+    "phone": "+911000000423",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-28T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0425",
+    "name": "Aditi Verma",
+    "email": "aditi.verma425@example.com",
+    "phone": "+911000000424",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-27T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0426",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre426@example.com",
+    "phone": "+911000000425",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-26T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0427",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav427@example.com",
+    "phone": "+911000000426",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-25T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0428",
+    "name": "Sai Nair",
+    "email": "sai.nair428@example.com",
+    "phone": "+911000000427",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-24T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0429",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni429@example.com",
+    "phone": "+911000000428",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-23T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0430",
+    "name": "Neha Pawar",
+    "email": "neha.pawar430@example.com",
+    "phone": "+911000000429",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-22T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0431",
+    "name": "Aarav Patil",
+    "email": "aarav.patil431@example.com",
+    "phone": "+911000000430",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-21T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0432",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh432@example.com",
+    "phone": "+911000000431",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-20T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0433",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta433@example.com",
+    "phone": "+911000000432",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-19T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0434",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma434@example.com",
+    "phone": "+911000000433",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-18T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0435",
+    "name": "Aditi Verma",
+    "email": "aditi.verma435@example.com",
+    "phone": "+911000000434",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-17T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0436",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre436@example.com",
+    "phone": "+911000000435",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-16T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0437",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav437@example.com",
+    "phone": "+911000000436",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-15T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0438",
+    "name": "Sai Nair",
+    "email": "sai.nair438@example.com",
+    "phone": "+911000000437",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-14T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0439",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni439@example.com",
+    "phone": "+911000000438",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-13T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0440",
+    "name": "Neha Pawar",
+    "email": "neha.pawar440@example.com",
+    "phone": "+911000000439",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-12T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0441",
+    "name": "Aarav Patil",
+    "email": "aarav.patil441@example.com",
+    "phone": "+911000000440",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-11T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0442",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh442@example.com",
+    "phone": "+911000000441",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-10T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0443",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta443@example.com",
+    "phone": "+911000000442",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-09T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0444",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma444@example.com",
+    "phone": "+911000000443",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-08T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0445",
+    "name": "Aditi Verma",
+    "email": "aditi.verma445@example.com",
+    "phone": "+911000000444",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-07T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0446",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre446@example.com",
+    "phone": "+911000000445",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-06T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0447",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav447@example.com",
+    "phone": "+911000000446",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-05T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0448",
+    "name": "Sai Nair",
+    "email": "sai.nair448@example.com",
+    "phone": "+911000000447",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-04T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0449",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni449@example.com",
+    "phone": "+911000000448",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-03T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0450",
+    "name": "Neha Pawar",
+    "email": "neha.pawar450@example.com",
+    "phone": "+911000000449",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2025-01-02T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0451",
+    "name": "Aarav Patil",
+    "email": "aarav.patil451@example.com",
+    "phone": "+911000000450",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2025-01-01T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0452",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh452@example.com",
+    "phone": "+911000000451",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-31T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0453",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta453@example.com",
+    "phone": "+911000000452",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-30T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0454",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma454@example.com",
+    "phone": "+911000000453",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-29T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0455",
+    "name": "Aditi Verma",
+    "email": "aditi.verma455@example.com",
+    "phone": "+911000000454",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-28T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0456",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre456@example.com",
+    "phone": "+911000000455",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-27T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0457",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav457@example.com",
+    "phone": "+911000000456",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-26T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0458",
+    "name": "Sai Nair",
+    "email": "sai.nair458@example.com",
+    "phone": "+911000000457",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-25T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0459",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni459@example.com",
+    "phone": "+911000000458",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-24T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0460",
+    "name": "Neha Pawar",
+    "email": "neha.pawar460@example.com",
+    "phone": "+911000000459",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-23T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0461",
+    "name": "Aarav Patil",
+    "email": "aarav.patil461@example.com",
+    "phone": "+911000000460",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-22T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0462",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh462@example.com",
+    "phone": "+911000000461",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-21T00:10:45.731Z"
+  },
+  {
+    "id": "CUST-0463",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta463@example.com",
+    "phone": "+911000000462",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-20T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0464",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma464@example.com",
+    "phone": "+911000000463",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-19T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0465",
+    "name": "Aditi Verma",
+    "email": "aditi.verma465@example.com",
+    "phone": "+911000000464",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-18T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0466",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre466@example.com",
+    "phone": "+911000000465",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-17T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0467",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav467@example.com",
+    "phone": "+911000000466",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-16T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0468",
+    "name": "Sai Nair",
+    "email": "sai.nair468@example.com",
+    "phone": "+911000000467",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-15T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0469",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni469@example.com",
+    "phone": "+911000000468",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-14T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0470",
+    "name": "Neha Pawar",
+    "email": "neha.pawar470@example.com",
+    "phone": "+911000000469",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-13T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0471",
+    "name": "Aarav Patil",
+    "email": "aarav.patil471@example.com",
+    "phone": "+911000000470",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-12T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0472",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh472@example.com",
+    "phone": "+911000000471",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-11T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0473",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta473@example.com",
+    "phone": "+911000000472",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-10T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0474",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma474@example.com",
+    "phone": "+911000000473",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-09T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0475",
+    "name": "Aditi Verma",
+    "email": "aditi.verma475@example.com",
+    "phone": "+911000000474",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-08T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0476",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre476@example.com",
+    "phone": "+911000000475",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-07T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0477",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav477@example.com",
+    "phone": "+911000000476",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-06T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0478",
+    "name": "Sai Nair",
+    "email": "sai.nair478@example.com",
+    "phone": "+911000000477",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-05T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0479",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni479@example.com",
+    "phone": "+911000000478",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-04T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0480",
+    "name": "Neha Pawar",
+    "email": "neha.pawar480@example.com",
+    "phone": "+911000000479",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-03T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0481",
+    "name": "Aarav Patil",
+    "email": "aarav.patil481@example.com",
+    "phone": "+911000000480",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-12-02T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0482",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh482@example.com",
+    "phone": "+911000000481",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2024-12-01T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0483",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta483@example.com",
+    "phone": "+911000000482",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-30T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0484",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma484@example.com",
+    "phone": "+911000000483",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-29T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0485",
+    "name": "Aditi Verma",
+    "email": "aditi.verma485@example.com",
+    "phone": "+911000000484",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-28T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0486",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre486@example.com",
+    "phone": "+911000000485",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-27T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0487",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav487@example.com",
+    "phone": "+911000000486",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-26T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0488",
+    "name": "Sai Nair",
+    "email": "sai.nair488@example.com",
+    "phone": "+911000000487",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-25T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0489",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni489@example.com",
+    "phone": "+911000000488",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-24T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0490",
+    "name": "Neha Pawar",
+    "email": "neha.pawar490@example.com",
+    "phone": "+911000000489",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-23T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0491",
+    "name": "Aarav Patil",
+    "email": "aarav.patil491@example.com",
+    "phone": "+911000000490",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-22T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0492",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh492@example.com",
+    "phone": "+911000000491",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-21T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0493",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta493@example.com",
+    "phone": "+911000000492",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-20T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0494",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma494@example.com",
+    "phone": "+911000000493",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-19T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0495",
+    "name": "Aditi Verma",
+    "email": "aditi.verma495@example.com",
+    "phone": "+911000000494",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-18T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0496",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre496@example.com",
+    "phone": "+911000000495",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-17T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0497",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav497@example.com",
+    "phone": "+911000000496",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-16T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0498",
+    "name": "Sai Nair",
+    "email": "sai.nair498@example.com",
+    "phone": "+911000000497",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-15T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0499",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni499@example.com",
+    "phone": "+911000000498",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-14T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0500",
+    "name": "Neha Pawar",
+    "email": "neha.pawar500@example.com",
+    "phone": "+911000000499",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-13T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0501",
+    "name": "Aarav Patil",
+    "email": "aarav.patil501@example.com",
+    "phone": "+911000000500",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-12T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0502",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh502@example.com",
+    "phone": "+911000000501",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-11T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0503",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta503@example.com",
+    "phone": "+911000000502",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-10T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0504",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma504@example.com",
+    "phone": "+911000000503",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-09T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0505",
+    "name": "Aditi Verma",
+    "email": "aditi.verma505@example.com",
+    "phone": "+911000000504",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-08T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0506",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre506@example.com",
+    "phone": "+911000000505",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-07T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0507",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav507@example.com",
+    "phone": "+911000000506",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-06T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0508",
+    "name": "Sai Nair",
+    "email": "sai.nair508@example.com",
+    "phone": "+911000000507",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-05T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0509",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni509@example.com",
+    "phone": "+911000000508",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-04T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0510",
+    "name": "Neha Pawar",
+    "email": "neha.pawar510@example.com",
+    "phone": "+911000000509",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-03T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0511",
+    "name": "Aarav Patil",
+    "email": "aarav.patil511@example.com",
+    "phone": "+911000000510",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-11-02T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0512",
+    "name": "Vihaan Singh",
+    "email": "vihaan.singh512@example.com",
+    "phone": "+911000000511",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2024-11-01T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0513",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta513@example.com",
+    "phone": "+911000000512",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-10-31T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0514",
+    "name": "Ishita Sharma",
+    "email": "ishita.sharma514@example.com",
+    "phone": "+911000000513",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2024-10-30T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0515",
+    "name": "Aditi Verma",
+    "email": "aditi.verma515@example.com",
+    "phone": "+911000000514",
+    "city": "Nashik",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-10-29T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0516",
+    "name": "Rohan Mhetre",
+    "email": "rohan.mhetre516@example.com",
+    "phone": "+911000000515",
+    "city": "Mumbai",
+    "eventType": "Reception",
+    "inquiryDate": "2024-10-28T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0517",
+    "name": "Kavya Jadhav",
+    "email": "kavya.jadhav517@example.com",
+    "phone": "+911000000516",
+    "city": "Pune",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-10-27T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0518",
+    "name": "Sai Nair",
+    "email": "sai.nair518@example.com",
+    "phone": "+911000000517",
+    "city": "Satara",
+    "eventType": "Reception",
+    "inquiryDate": "2024-10-26T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0519",
+    "name": "Mihir Kulkarni",
+    "email": "mihir.kulkarni519@example.com",
+    "phone": "+911000000518",
+    "city": "Kolhapur",
+    "eventType": "Wedding",
+    "inquiryDate": "2024-10-25T00:10:45.732Z"
+  },
+  {
+    "id": "CUST-0520",
+    "name": "Neha Pawar",
+    "email": "neha.pawar520@example.com",
+    "phone": "+911000000519",
+    "city": "Nagpur",
+    "eventType": "Reception",
+    "inquiryDate": "2024-10-24T00:10:45.732Z"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "shambhu-events-management",
+  "version": "1.0.0",
+  "description": "Premium black & gold responsive website with backend CRM for Shambhu Events & Management",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node src/server.js",
+    "start": "NODE_ENV=production node src/server.js",
+    "seed": "node scripts/generate-seed.js",
+    "check": "node --check src/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "nanoid": "^5.0.7",
+    "nodemailer": "^6.9.14",
+    "twilio": "^5.2.3"
+  }
+}

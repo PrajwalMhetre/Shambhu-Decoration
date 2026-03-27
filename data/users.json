@@ -1,0 +1,9 @@
+[
+  {
+    "id": "admin-1",
+    "name": "Shambhu Admin",
+    "email": "admin@shambhuevents.com",
+    "phone": "+919146620490",
+    "passwordHash": "$2a$10$Bq8VfMRsN7sjYeW6rWlJw.0n8Q5aM6/G/sf8nNfM9uWJeB0hLlXqy"
+  }
+]

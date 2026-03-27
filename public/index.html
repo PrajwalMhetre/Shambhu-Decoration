@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shambhu Events & Management | Premium Experience</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;800&family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="hero" id="home">
+      <nav class="nav">
+        <div class="logo">Shambhu Events</div>
+        <a class="btn btn-outline" href="#contact">Book Now</a>
+      </nav>
+
+      <div class="intro-wrap">
+        <p class="tag">PREMIUM EVENTS • BLACK & GOLD EXPERIENCE</p>
+        <h1>Shambhu Events & Management</h1>
+        <p class="subtitle">
+          From royal weddings to high-impact corporate launches — we craft unforgettable moments with cinematic production, décor mastery, and flawless execution.
+        </p>
+        <div class="hero-cta">
+          <a href="tel:+919146620490" class="btn">Call +91 9146620490</a>
+          <a href="https://wa.me/919172620490" class="btn btn-outline" target="_blank" rel="noreferrer">WhatsApp +91 9172620490</a>
+        </div>
+      </div>
+      <div class="glow"></div>
+    </header>
+
+    <main>
+      <section class="section metrics reveal">
+        <h2>Trusted by 500+ Customers</h2>
+        <div class="cards">
+          <article class="card"><h3>520+</h3><p>Customer Records Managed</p></article>
+          <article class="card"><h3>24/7</h3><p>Live Planning & Support</p></article>
+          <article class="card"><h3>100%</h3><p>Premium Personalization</p></article>
+        </div>
+      </section>
+
+      <section class="section split reveal">
+        <div>
+          <h2>Services that feel luxury</h2>
+          <ul>
+            <li>Wedding & Reception Planning</li>
+            <li>Corporate Event Design & Production</li>
+            <li>Artist Management & Stage Shows</li>
+            <li>Destination Decor & Hospitality</li>
+          </ul>
+        </div>
+        <div class="panel">
+          <h3>Follow us</h3>
+          <p>Instagram: <strong>@Shambhu Events-Mangment</strong></p>
+          <p>Black-and-gold theme, smooth motion, and conversion focused UI/UX for premium clients.</p>
+          <a class="btn" href="/login.html">Admin Login</a>
+        </div>
+      </section>
+
+      <section class="section reveal" id="contact">
+        <h2>Get a live callback in minutes</h2>
+        <form id="leadForm" class="lead-form">
+          <input name="name" type="text" placeholder="Full Name" required />
+          <input name="phone" type="tel" placeholder="Phone Number" required />
+          <input name="email" type="email" placeholder="Email Address" required />
+          <input name="eventType" type="text" placeholder="Event Type" />
+          <input name="budget" type="text" placeholder="Estimated Budget" />
+          <textarea name="message" rows="4" placeholder="Tell us your dream event"></textarea>
+          <button class="btn" type="submit">Submit Inquiry</button>
+          <p id="formMessage" class="form-message"></p>
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      <p>© <span id="year"></span> Shambhu Events & Management • Crafted for premium celebrations.</p>
+    </footer>
+
+    <script src="/app.js"></script>
+  </body>
+</html>

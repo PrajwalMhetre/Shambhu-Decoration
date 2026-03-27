@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shambhu Admin Login</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body class="auth-body">
+    <section class="auth-card">
+      <h1>Admin OTP Login</h1>
+      <p>Use phone or email to receive OTP (Twilio/SMTP in production).</p>
+      <form id="requestOtpForm" class="lead-form">
+        <input id="identifier" type="text" placeholder="+91XXXXXXXXXX or email" required />
+        <button class="btn" type="submit">Request OTP</button>
+      </form>
+      <form id="verifyOtpForm" class="lead-form">
+        <input id="otp" type="text" maxlength="6" placeholder="Enter 6-digit OTP" required />
+        <button class="btn" type="submit">Verify & Open Dashboard</button>
+      </form>
+      <p id="authMessage" class="form-message"></p>
+      <a href="/" class="btn btn-outline">Back to website</a>
+    </section>
+
+    <section class="dashboard" id="dashboard" hidden>
+      <h2>Live Confirmation Dashboard</h2>
+      <div id="stats" class="cards"></div>
+      <h3>Latest Leads</h3>
+      <div id="latestLeads"></div>
+    </section>
+
+    <script src="/login.js"></script>
+  </body>
+</html>
